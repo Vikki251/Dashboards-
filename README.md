@@ -113,6 +113,7 @@ Consumer behavior analysis
 
  Screenshot / Demos :
  How the Dasboard Look Like :
+ Example : ![Dashboard preview](https://github.com/Vikki251/Dashboards-/blob/main/Screenshot%202025-07-29%20103924.png)
  
 
 
