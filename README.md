@@ -112,6 +112,7 @@ Outlet-level operational analysis
 Consumer behavior analysis
 
  Screenshot / Demos :
+ How the Dasboard Look Like :
  
 
 
